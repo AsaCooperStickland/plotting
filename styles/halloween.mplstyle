@@ -19,7 +19,7 @@ figure.facecolor: white
 figure.figsize: 8.0, 5.5
 
 font.family: fantasy
-font.fantasy: Comic Sans MS, Chicago, Charcoal, Impact, Western, Humor Sans, xkcd, fantasy
+font.fantasy: Western, Humor Sans, xkcd, fantasy
 
 grid.color: white
 grid.linestyle: -
